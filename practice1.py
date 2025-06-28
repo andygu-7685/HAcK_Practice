@@ -1,3 +1,4 @@
+import math
 print("Hello World")
 def mean(input):
   sum = 0
